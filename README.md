@@ -7,13 +7,6 @@ I am passionate about building things at the intersection of AI and full-stack e
 
 ⚡ **Fun fact:** When I am not building intelligent systems, I love challenging myself with high-altitude treks!
 
-## 🏆 GitHub Trophies
-*(These dynamically update based on your GitHub activity!)*
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Bhavya728&theme=radical&margin-w=15&column=7&no-frame=true" alt="Bhavya's Trophies" />
-  </a>
-</p>
 
 ---
 
