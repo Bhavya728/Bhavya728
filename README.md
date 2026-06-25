@@ -1,7 +1,6 @@
-<div align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=80&lines=Hi+there,+I%27m+Bhavya+Kalal+%F0%9F%91%8B;Full-Stack+Web+Developer;Generative+AI+Engineer;Problem+Solver)](https://git.io/typing-svg)
-</div>
-
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hi+there,+I'm+Bhavya+Kalal!;Full-Stack+%26+AI+Developer" alt="Typing SVG" />
+</h1>
 <h3 align="center">CS undergrad @ Thapar Institute of Engineering and Technology</h3>
 
 I am passionate about building things at the intersection of AI and full-stack engineering — from multi-agent LLM copilots to real-time scalable platforms. I thrive on the challenge of designing systems that are not just functional, but fast, highly scalable, and a joy to use.
