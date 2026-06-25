@@ -1,20 +1,19 @@
 ## Hi there 👋
 
-<!--
 **Bhavya728/Bhavya728** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hi+there,+I'm+Bhavya+Kalal!;Full-Stack+%26+AI+Developer" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">Driven by a genuine curiosity for how intelligent systems can solve real-world problems[cite: 1].</h3>
+<h3 align="center">Driven by a genuine curiosity for how intelligent systems can solve real-world problems.</h3>
 
 <br/>
 
 ## 👨‍💻 About Me
 
-* 🎓 I am currently pursuing my Bachelor of Engineering in Computer Engineering at Thapar Institute of Engineering and Technology, with an expected graduation in 2027[cite: 1, 2].
-* 💡 I love turning ideas into working products, ranging from AI copilots to real-time platforms, and I thrive on designing systems that are fast and scalable[cite: 1].
+* 🎓 I am currently pursuing my Bachelor of Engineering in Computer Engineering at Thapar Institute of Engineering and Technology, with an expected graduation in 2027.
+* 💡 I love turning ideas into working products, ranging from AI copilots to real-time platforms, and I thrive on designing systems that are fast and scalable.
 * 🚀 I am always exploring the intersection of AI and full-stack engineering, specifically utilizing the MERN stack for robust web applications.
 * ⚡ **Fun fact:** When I am not building intelligent systems, I love challenging myself with high-altitude treks!
 
@@ -26,21 +25,20 @@
   </a>
 </p>
 
-* **Languages:** Python, JavaScript (ES6+), C/C++, SQL, HTML5, and CSS3[cite: 1, 2].
-* **Frameworks/Libraries:** React.js, Next.js, Node.js, Express.js, FastAPI, LangChain, and LangGraph[cite: 1].
-* **Databases & Tools:** MongoDB, DynamoDB, Pinecone, Git, GitHub, VS Code, Streamlit, and LangSmith[cite: 1].
+* **Languages:** Python, JavaScript (ES6+), C/C++, SQL, HTML5, and CSS3.
+* **Frameworks/Libraries:** React.js, Next.js, Node.js, Express.js, FastAPI, LangChain, and LangGraph.
+* **Databases & Tools:** MongoDB, DynamoDB, Pinecone, Git, GitHub, VS Code, Streamlit, and LangSmith.
 
 ## 🚀 Featured Projects
 
-
-* **[Fricerce AI Shopping Copilot](#):** Deployed a serverless AI e-commerce platform using Groq LLM and a FastAPI backend, reducing average session duration by 25%[cite: 1, 2].
-* **[Rental Marketplace Platform](#):** Developed a full-stack rental marketplace featuring instant booking, secure authentication, and optimized backend data handling[cite: 2].
-* **[Real-Time Chat Application](#):** Created a scalable communication platform supporting over 1,200 concurrent users with sub-300ms message delivery times[cite: 2].
+* **[Fricerce AI Shopping Copilot](#):** Deployed a serverless AI e-commerce platform using Groq LLM and a FastAPI backend, reducing average session duration by 25%.
+* **[Rental Marketplace Platform](#):** Developed a full-stack rental marketplace featuring instant booking, secure authentication, and optimized backend data handling.
+* **[Real-Time Chat Application](#):** Created a scalable communication platform supporting over 1,200 concurrent users with sub-300ms message delivery times.
 
 ## 🏆 Achievements
 
-* **LeetCode:** Achieved a peak contest rating of 1750+ and solved over 450 data structure and algorithmic problems[cite: 1, 2].
-* **Hackon with Amazon:** Ranked in the top 300 out of 21,000+ teams by developing a functional serverless AI shopping assistant prototype[cite: 1, 2].
+* **LeetCode:** Achieved a peak contest rating of 1750+ and solved over 450 data structure and algorithmic problems.
+* **Hackon with Amazon:** Ranked in the top 300 out of 21,000+ teams by developing a functional serverless AI shopping assistant prototype.
 
 ## 📊 GitHub Stats
 
@@ -58,4 +56,3 @@
   <a href="mailto:kalalbk27@gmail.com"><img src="https://img.shields.io/badge/Email-kalalbk27%40gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email" /></a>
   <a href="https://linkedin.com/in/bhavyakala"><img src="https://img.shields.io/badge/LinkedIn-bhavyakala-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
 </p>
--->
