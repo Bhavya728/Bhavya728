@@ -1,5 +1,3 @@
-## Hi there 👋
-
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hi+there,+I'm+Bhavya+Kalal!;Full-Stack+%26+AI+Developer" alt="Typing SVG" />
