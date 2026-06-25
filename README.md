@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-**Bhavya728/Bhavya728** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hi+there,+I'm+Bhavya+Kalal!;Full-Stack+%26+AI+Developer" alt="Typing SVG" />
