@@ -1,12 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hi+there,+I'm+Bhavya+Kalal!;Full-Stack+%26+AI+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hi+there,+I%27m+Bhavya+Kalal!;Full-Stack+%26+AI+Developer" alt="Typing SVG" />
 </h1>
 <h3 align="center">CS undergrad @ Thapar Institute of Engineering and Technology</h3>
 
 I am passionate about building things at the intersection of AI and full-stack engineering — from multi-agent LLM copilots to real-time scalable platforms. I thrive on the challenge of designing systems that are not just functional, but fast, highly scalable, and a joy to use.
 
 ⚡ **Fun fact:** When I am not building intelligent systems, I love challenging myself with high-altitude treks!
-
 
 ---
 
@@ -27,10 +26,8 @@ I am passionate about building things at the intersection of AI and full-stack e
 
 ## 🚀 Featured Projects (Interactive)
 
-
-
 <details>
-  <summary><b>🛒 Fricerce AI Shopping Copilot</b></summary>
+  <summary><b><a href="https://github.com/Bhavya728/YOUR-REPO-LINK-HERE">🛒 Fricerce AI Shopping Copilot</a></b></summary>
   <ul>
     <li>Deployed an AI shopping assistant leveraging Groq LLM, enabling instant understanding of diverse user needs and reducing average session duration by 25%.</li>
     <li>Implemented a dual-path engine combining O(1) DynamoDB lookups with Pinecone vector search.</li>
@@ -39,7 +36,7 @@ I am passionate about building things at the intersection of AI and full-stack e
 </details>
 
 <details>
-  <summary><b>🏠 Rental Marketplace Platform</b></summary>
+  <summary><b><a href="https://github.com/Bhavya728/YOUR-REPO-LINK-HERE">🏠 Rental Marketplace Platform</a></b></summary>
   <ul>
     <li>Developed a full-stack rental marketplace with instant booking, secure authentication, payments, host dashboards, and admin controls.</li>
     <li>Optimised backend data handling for scalability and smooth booking experience while enhancing trust with built-in review and rating systems.</li>
@@ -47,7 +44,7 @@ I am passionate about building things at the intersection of AI and full-stack e
 </details>
 
 <details>
-  <summary><b>💬 Real-Time Chat Application</b></summary>
+  <summary><b><a href="https://github.com/Bhavya728/YOUR-REPO-LINK-HERE">💬 Real-Time Chat Application</a></b></summary>
   <ul>
     <li>Developed a scalable chat app supporting 1,200+ concurrent users with sub-300ms message delivery times.</li>
     <li>Reduced memory usage by 30% using optimised WebSocket pooling and implemented message compression, cutting bandwidth usage by 35%.</li>
@@ -71,7 +68,6 @@ I am passionate about building things at the intersection of AI and full-stack e
 * **Algorithmic Problem Solving:** Consistently participating in LeetCode contests and solving advanced DSA problems.
 
 ---
-
 
 ## 📊 Analytics & Contributions
 
