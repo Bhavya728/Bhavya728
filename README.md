@@ -6,9 +6,9 @@
   <img src="https://komarev.com/ghpvc/?username=Bhavya728&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="center">CS undergrad @ Thapar Institute of Engineering and Technology[cite: 1, 2]</h3>
+<h3 align="center">CS undergrad @ Thapar Institute of Engineering and Technology</h3>
 
-I am passionate about building things at the intersection of AI and full-stack engineering — from multi-agent LLM copilots to real-time scalable platforms[cite: 1]. I thrive on the challenge of designing systems that are not just functional, but fast, highly scalable, and a joy to use[cite: 1]. 
+I am passionate about building things at the intersection of AI and full-stack engineering — from multi-agent LLM copilots to real-time scalable platforms. I thrive on the challenge of designing systems that are not just functional, but fast, highly scalable, and a joy to use. 
 
 ⚡ **Fun fact:** When I am not building intelligent systems, I love challenging myself with high-altitude treks!
 
@@ -31,10 +31,10 @@ I am passionate about building things at the intersection of AI and full-stack e
   </a>
 </p>
 
-* **Languages:** C/C++ · Python · JavaScript (ES6+) · SQL · HTML5 · CSS3[cite: 1, 2]
-* **AI & Domain:** LangChain · LangGraph · Generative AI Systems · REST APIs[cite: 1]
-* **Web Frameworks:** Node.js · Express.js · React.js · Next.js · FastAPI[cite: 1, 2]
-* **Databases & Tools:** MongoDB · DynamoDB · Pinecone · Git · GitHub · Streamlit · LangSmith[cite: 1, 2]
+* **Languages:** C/C++ · Python · JavaScript (ES6+) · SQL · HTML5 · CSS3
+* **AI & Domain:** LangChain · LangGraph · Generative AI Systems · REST APIs
+* **Web Frameworks:** Node.js · Express.js · React.js · Next.js · FastAPI
+* **Databases & Tools:** MongoDB · DynamoDB · Pinecone · Git · GitHub · Streamlit · LangSmith
 
 ---
 
@@ -45,52 +45,46 @@ I am passionate about building things at the intersection of AI and full-stack e
 <details>
   <summary><b>🛒 Fricerce AI Shopping Copilot</b></summary>
   <ul>
-    <li>Deployed an AI shopping assistant leveraging Groq LLM, enabling instant understanding of diverse user needs and reducing average session duration by 25%[cite: 1, 2].</li>
-    <li>Implemented a dual-path engine combining O(1) DynamoDB lookups with Pinecone vector search[cite: 1, 2].</li>
-    <li>Built a serverless FastAPI backend streaming real-time results to a Next.js frontend via SSE[cite: 1, 2].</li>
+    <li>Deployed an AI shopping assistant leveraging Groq LLM, enabling instant understanding of diverse user needs and reducing average session duration by 25%.</li>
+    <li>Implemented a dual-path engine combining O(1) DynamoDB lookups with Pinecone vector search.</li>
+    <li>Built a serverless FastAPI backend streaming real-time results to a Next.js frontend via SSE.</li>
   </ul>
 </details>
 
 <details>
   <summary><b>🏠 Rental Marketplace Platform</b></summary>
   <ul>
-    <li>Developed a full-stack rental marketplace with instant booking, secure authentication, payments, host dashboards, and admin controls[cite: 2].</li>
-    <li>Optimised backend data handling for scalability and smooth booking experience while enhancing trust with built-in review and rating systems[cite: 2].</li>
+    <li>Developed a full-stack rental marketplace with instant booking, secure authentication, payments, host dashboards, and admin controls.</li>
+    <li>Optimised backend data handling for scalability and smooth booking experience while enhancing trust with built-in review and rating systems.</li>
   </ul>
 </details>
 
 <details>
   <summary><b>💬 Real-Time Chat Application</b></summary>
   <ul>
-    <li>Developed a scalable chat app supporting 1,200+ concurrent users with sub-300ms message delivery times[cite: 2].</li>
-    <li>Reduced memory usage by 30% using optimised WebSocket pooling and implemented message compression, cutting bandwidth usage by 35%[cite: 2].</li>
+    <li>Developed a scalable chat app supporting 1,200+ concurrent users with sub-300ms message delivery times.</li>
+    <li>Reduced memory usage by 30% using optimised WebSocket pooling and implemented message compression, cutting bandwidth usage by 35%.</li>
   </ul>
 </details>
 
 ---
 
-## 📂 Recent Focus Areas
+## 🎯 Current Focus & Expertise
 
-* **Agentic AI & Multi-Agent Systems:** Engineering workflows that utilize conditional routing and tool-calling agents to autonomously execute searches, summarize data, and generate content[cite: 1].
-* **Serverless Scalable Architectures:** Deploying serverless FastAPI backends integrated with vector databases (Pinecone) and NoSQL (DynamoDB) to stream real-time results via SSE to frontend frameworks like Next.js[cite: 1, 2]. 
-* **Real-Time Communication & Optimization:** Building full-stack systems optimized for high concurrent user loads, implementing WebSocket pooling and message compression to aggressively cut bandwidth and memory usage[cite: 2].
-
----
-
-## 🔭 What I'm Working On
-
-* **Agentic Workflows:** Developing LLM-powered content generation APIs and chatbots using LangGraph[cite: 1].
-* **System Optimization:** Integrating structured outputs and end-to-end observability using Pydantic and LangSmith[cite: 1].
-* **Algorithmic Problem Solving:** Consistently participating in LeetCode contests and solving advanced DSA problems[cite: 1, 2].
+* **Agentic AI & Multi-Agent Systems:** Engineering workflows that utilize conditional routing and tool-calling agents to autonomously execute searches, summarize data, and generate content.
+* **Serverless Scalable Architectures:** Deploying serverless FastAPI backends integrated with vector databases (Pinecone) and NoSQL (DynamoDB) to stream real-time results via SSE to frontend frameworks like Next.js. 
+* **Real-Time Communication & Optimization:** Building full-stack systems optimized for high concurrent user loads, implementing WebSocket pooling and message compression to aggressively cut bandwidth and memory usage.
 
 ---
 
-## 🥇 Achievements
+## 🌱 Currently Building & Exploring
 
-* **LeetCode:** Achieved a peak contest rating of 1750+ through consistent participation, solving over 450 data structure and algorithmic problems[cite: 1, 2].
-* **Hackon with Amazon:** Ranked in the top 300 out of 21,000+ teams after clearing the competitive coding round, developing a functional serverless AI shopping assistant prototype[cite: 1, 2].
+* **Agentic Workflows:** Developing LLM-powered content generation APIs and chatbots using LangGraph.
+* **System Optimization:** Integrating structured outputs and end-to-end observability using Pydantic and LangSmith.
+* **Algorithmic Problem Solving:** Consistently participating in LeetCode contests and solving advanced DSA problems.
 
 ---
+
 
 ## 📊 Analytics & Contributions
 
