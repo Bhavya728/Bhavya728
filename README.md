@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=80&lines=Hi+there,+I'm+Bhavya+Kalal+👋;Full-Stack+Web+Developer;Generative+AI+Engineer;Problem+Solver" alt="Typing SVG" />
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=80&lines=Hi+there,+I%27m+Bhavya+Kalal+%F0%9F%91%8B;Full-Stack+Web+Developer;Generative+AI+Engineer;Problem+Solver)](https://git.io/typing-svg)
 </div>
 
 <p align="center">
@@ -17,7 +17,7 @@ I am passionate about building things at the intersection of AI and full-stack e
 ## 🏆 GitHub Activity
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Bhavya728&theme=radical&margin-w=15&column=7&no-frame=true" alt="Bhavya's Trophies" />
+    [![Bhavya's Trophies](https://github-profile-trophy.vercel.app/?username=Bhavya728&theme=radical&margin-w=15&column=7&no-frame=true&v=1)](https://github.com/ryo-ma/github-profile-trophy)
   </a>
 </p>
 
