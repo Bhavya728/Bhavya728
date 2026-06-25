@@ -1,92 +1,90 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hi+there,+I%27m+Bhavya+Kalal!;Full-Stack+%26+AI+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=440&lines=Hi+there%2C+I'm+Bhavya+Kalal!;Full-Stack+%26+AI+Developer;Building+at+the+intersection+of+LLMs+%26+scale" alt="Typing SVG" />
 </h1>
-<h3 align="center">CS undergrad @ Thapar Institute of Engineering and Technology</h3>
 
-I am passionate about building things at the intersection of AI and full-stack engineering — from multi-agent LLM copilots to real-time scalable platforms. I thrive on the challenge of designing systems that are not just functional, but fast, highly scalable, and a joy to use.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bhavya728&color=36BCF7&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Bhavya728?style=flat-square&color=36BCF7" alt="GitHub followers" />
+</p>
 
-⚡ **Fun fact:** When I am not building intelligent systems, I love challenging myself with high-altitude treks!
+<h3 align="center">CS Undergrad @ Thapar Institute of Engineering and Technology</h3>
+
+<p align="center">
+  I build at the intersection of <b>AI and full-stack engineering</b> — multi-agent LLM copilots, serverless backends, and real-time systems designed to scale.
+</p>
+
+<p align="center">
+  ⚡ <i>Off the keyboard, you'll usually find me planning my next high-altitude trek.</i>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,cpp,c,html,css,react,nextjs,nodejs,express,fastapi,mongodb,dynamodb,git,github,vscode&perline=16" alt="My Skills" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,c,html,css,react,nextjs,nodejs,express,fastapi,mongodb,dynamodb,git,github,vscode&perline=16" alt="My Skills" />
 </p>
 
-* **Languages:** C/C++ · Python · JavaScript (ES6+) · SQL · HTML5 · CSS3
-* **AI & Domain:** LangChain · LangGraph · Generative AI Systems · REST APIs
-* **Web Frameworks:** Node.js · Express.js · React.js · Next.js · FastAPI
-* **Databases & Tools:** MongoDB · DynamoDB · Pinecone · Git · GitHub · Streamlit · LangSmith
+| Category | Stack |
+|---|---|
+| **Languages** | C/C++ · Python · JavaScript (ES6+) · SQL · HTML5 · CSS3 |
+| **AI & Agents** | LangChain · LangGraph · Generative AI Systems · REST APIs |
+| **Web Frameworks** | Node.js · Express.js · React.js · Next.js · FastAPI |
+| **Data & Tools** | MongoDB · DynamoDB · Pinecone · Git/GitHub · Streamlit · LangSmith |
 
 ---
 
-## 🚀 Featured Projects (Interactive)
+## 🚀 Featured Projects
 
-<details>
-  <summary><b><a href="https://github.com/Bhavya728/YOUR-REPO-LINK-HERE">🛒 Fricerce AI Shopping Copilot</a></b></summary>
-  <ul>
-    <li>Deployed an AI shopping assistant leveraging Groq LLM, enabling instant understanding of diverse user needs and reducing average session duration by 25%.</li>
-    <li>Implemented a dual-path engine combining O(1) DynamoDB lookups with Pinecone vector search.</li>
-    <li>Built a serverless FastAPI backend streaming real-time results to a Next.js frontend via SSE.</li>
-  </ul>
-</details>
+### 🛒 [Fricerce — AI Shopping Copilot](https://github.com/Bhavya728/YOUR-REPO-LINK-HERE)
+An AI shopping assistant powered by the Groq LLM that understands diverse user needs instantly.
+- Cut average session duration by **25%** with a dual-path engine combining O(1) DynamoDB lookups and Pinecone vector search
+- Built a serverless FastAPI backend streaming real-time results to a Next.js frontend via SSE
+- **Stack:** `FastAPI` `Next.js` `DynamoDB` `Pinecone` `Groq`
 
-<details>
-  <summary><b><a href="https://github.com/Bhavya728/YOUR-REPO-LINK-HERE">🏠 Rental Marketplace Platform</a></b></summary>
-  <ul>
-    <li>Developed a full-stack rental marketplace with instant booking, secure authentication, payments, host dashboards, and admin controls.</li>
-    <li>Optimised backend data handling for scalability and smooth booking experience while enhancing trust with built-in review and rating systems.</li>
-  </ul>
-</details>
+### 🏠 [Rental Marketplace Platform](https://github.com/Bhavya728/YOUR-REPO-LINK-HERE)
+A full-stack rental marketplace with instant booking, secure auth, payments, and host/admin dashboards.
+- Optimized backend data handling for scalability and a smooth booking experience
+- Added a built-in review and rating system to build trust between hosts and renters
+- **Stack:** `React` `Node.js` `MongoDB` `Payments API`
 
-<details>
-  <summary><b><a href="https://github.com/Bhavya728/YOUR-REPO-LINK-HERE">💬 Real-Time Chat Application</a></b></summary>
-  <ul>
-    <li>Developed a scalable chat app supporting 1,200+ concurrent users with sub-300ms message delivery times.</li>
-    <li>Reduced memory usage by 30% using optimised WebSocket pooling and implemented message compression, cutting bandwidth usage by 35%.</li>
-  </ul>
-</details>
+### 💬 [Real-Time Chat Application](https://github.com/Bhavya728/YOUR-REPO-LINK-HERE)
+A scalable chat app supporting **1,200+ concurrent users** with sub-300ms message delivery.
+- Reduced memory usage by **30%** through optimized WebSocket pooling
+- Cut bandwidth usage by **35%** with message compression
+- **Stack:** `WebSockets` `Node.js` `Redis`
+
+> 📌 Replace the placeholder `YOUR-REPO-LINK-HERE` links above with your actual repo URLs.
 
 ---
 
-## 🎯 Current Focus & Expertise
+## 🎯 Currently Focused On
+- **Agentic & multi-agent systems** — conditional routing and tool-calling agents that autonomously search, summarize, and generate content
+- **Serverless, scalable architecture** — FastAPI backends wired to vector (Pinecone) and NoSQL (DynamoDB) stores, streaming results to Next.js via SSE
+- **Real-time systems at scale** — WebSocket pooling and message compression to keep latency and bandwidth low under high concurrency
 
-* **Agentic AI & Multi-Agent Systems:** Engineering workflows that utilize conditional routing and tool-calling agents to autonomously execute searches, summarize data, and generate content.
-* **Serverless Scalable Architectures:** Deploying serverless FastAPI backends integrated with vector databases (Pinecone) and NoSQL (DynamoDB) to stream real-time results via SSE to frontend frameworks like Next.js. 
-* **Real-Time Communication & Optimization:** Building full-stack systems optimized for high concurrent user loads, implementing WebSocket pooling and message compression to aggressively cut bandwidth and memory usage.
-
----
-
-## 🌱 Currently Building & Exploring
-
-* **Agentic Workflows:** Developing LLM-powered content generation APIs and chatbots using LangGraph.
-* **System Optimization:** Integrating structured outputs and end-to-end observability using Pydantic and LangSmith.
-* **Algorithmic Problem Solving:** Consistently participating in LeetCode contests and solving advanced DSA problems.
+## 🌱 Currently Learning
+- Structured outputs and end-to-end observability with **Pydantic** and **LangSmith**
+- Advanced **DSA** and competitive programming through regular LeetCode contests
 
 ---
 
-## 📊 Analytics & Contributions
+## 📊 GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bhavya728&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavya728&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
-<br/>
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Bhavya728&theme=radical" alt="GitHub Streak" />
 </div>
-
-<br>
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bhavya728/Bhavya728/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bhavya728/Bhavya728/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Bhavya728/Bhavya728/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Bhavya728/Bhavya728/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
@@ -97,4 +95,5 @@ I am passionate about building things at the intersection of AI and full-stack e
 <p align="center">
   <a href="mailto:kalalbk27@gmail.com"><img src="https://img.shields.io/badge/Email-kalalbk27%40gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email" /></a>
   <a href="https://linkedin.com/in/bhavyakala"><img src="https://img.shields.io/badge/LinkedIn-bhavyakala-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://github.com/Bhavya728"><img src="https://img.shields.io/badge/GitHub-Bhavya728-black?style=for-the-badge&logo=github" alt="GitHub" /></a>
 </p>
