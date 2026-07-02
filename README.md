@@ -93,13 +93,7 @@ A scalable chat app with **WebRTC audio/video calls**, supporting **1,200+ concu
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bhavya728&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bhavya728&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=F72585&text_color=c9d1d9" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bhavya728&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=F72585&text_color=c9d1d9" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavya728&layout=compact&hide_border=true&bg_color=0d1117&title_color=36BCF7&text_color=c9d1d9" alt="Top Languages"/>
 </div>
 
