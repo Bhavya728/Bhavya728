@@ -19,9 +19,9 @@
 <img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="coding gif" />
 
 - 🎓 CS Undergrad @ **Thapar Institute of Engineering and Technology**
-- 🤖 Building **agentic & multi-agent LLM systems** — conditional routing, tool-calling agents that search, summarize & generate autonomously
-- ⚡ Designing **serverless, scalable architecture** — FastAPI + Pinecone + DynamoDB, streaming to Next.js via SSE
-- 📡 Obsessed with **real-time systems at scale** — WebSocket pooling & message compression under high concurrency
+- 🤖 Building **agentic & multi-agent LLM systems** - conditional routing, tool-calling agents that search, summarize & generate autonomously
+- ⚡ Designing **serverless, scalable architecture** - FastAPI + Pinecone + DynamoDB, streaming to Next.js via SSE
+- 📡 Obsessed with **real-time systems at scale** - WebSocket pooling & message compression under high concurrency
 - 🌱 Currently learning structured outputs & observability with **Pydantic + LangSmith**, and grinding **DSA** on LeetCode
 - 🏔️ Off the keyboard, you'll find me planning my next **high-altitude trek**
 
@@ -54,7 +54,7 @@
 
 ## 🚀 Featured Projects
 
-### 🛒 [Fricerce — AI Shopping Copilot](https://github.com/Akshat191005/Fricerce) · [Live Demo ↗](https://fricerce.vercel.app/)
+### 🛒 [Fricerce - AI Shopping Copilot](https://github.com/Akshat191005/Fricerce) · [Live Demo ↗](https://fricerce.vercel.app/)
 An AI shopping assistant powered by the **Groq LLM** that turns one sentence into a ready-to-checkout cart.
 - Cut average session duration by **25%** with a dual-path engine combining O(1) DynamoDB lookups and Pinecone vector search
 - Serverless FastAPI backend streaming real-time results to a Next.js frontend via **SSE**
@@ -68,7 +68,7 @@ A full-stack rental marketplace with instant booking, secure auth, payments, rea
 
   ![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white) ![Payments](https://img.shields.io/badge/Payments%20API-635BFF?style=flat-square)
 
-### 💬 [ChatSphere — Real-Time Chat](https://github.com/Bhavya728/Real-time-chat-application)
+### 💬 [ChatSphere - Real-Time Chat](https://github.com/Bhavya728/Real-time-chat-application)
 A scalable chat app with **WebRTC audio/video calls**, supporting **1,200+ concurrent users** at sub-300ms delivery.
 - Reduced memory usage by **30%** through optimized WebSocket pooling
 - Cut bandwidth usage by **35%** with message compression
