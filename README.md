@@ -92,14 +92,7 @@ A scalable chat app with **WebRTC audio/video calls**, supporting **1,200+ concu
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bhavya728&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=F72585&text_color=c9d1d9" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavya728&layout=compact&hide_border=true&bg_color=0d1117&title_color=36BCF7&text_color=c9d1d9" alt="Top Languages"/>
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Bhavya728&hide_border=true&background=0d1117&ring=36BCF7&fire=F72585&currStreakLabel=36BCF7&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="GitHub Streak" />
-</div>
 
 <br/>
 
