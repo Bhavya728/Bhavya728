@@ -127,9 +127,7 @@ A scalable chat app with **WebRTC audio/video calls**, supporting **1,200+ concu
   <a href="https://github.com/Bhavya728"><img src="https://img.shields.io/badge/GitHub-Bhavya728-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:7C3AED,100:F72585&height=120&section=footer" width="100%" alt="footer" />
