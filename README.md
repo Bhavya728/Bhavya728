@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:7C3AED,100:F72585&height=210&section=header&text=Bhavya%20Kalal&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%26%20AI%20Developer%20%E2%80%A2%20CS%20%40%20Thapar%20Institute&descSize=18&descAlignY=55" width="100%" alt="banner"/>
+ 
 </div>
 
 <h1 align="center">
